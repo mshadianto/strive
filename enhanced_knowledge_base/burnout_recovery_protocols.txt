@@ -1,0 +1,57 @@
+
+# Evidence-Based Burnout Recovery Protocols
+
+## Maslach Burnout Inventory Intervention Mapping
+
+### For High Emotional Exhaustion:
+1. **Energy Management**: 
+   - Sleep hygiene optimization (7-9 hours quality sleep)
+   - Nutrition planning (regular meals, reduced caffeine/alcohol)
+   - Exercise prescription (150 min moderate activity/week)
+   - Micro-recovery periods (5-10 minutes every 90 minutes)
+
+2. **Workload Management**:
+   - Task prioritization using Eisenhower Matrix
+   - Delegation strategies and saying "no" effectively
+   - Time blocking and calendar management
+   - Boundary setting with supervisors and colleagues
+
+### For High Depersonalization:
+1. **Reconnection Strategies**:
+   - Values clarification exercises
+   - Meaning-making activities (connecting work to larger purpose)
+   - Social connection initiatives (team building, peer support)
+   - Empathy training and perspective-taking exercises
+
+2. **Communication Enhancement**:
+   - Active listening skills development
+   - Conflict resolution training
+   - Assertiveness training
+   - Feedback giving and receiving skills
+
+### For Low Personal Accomplishment:
+1. **Achievement Recognition**:
+   - Daily accomplishment logging
+   - Skill inventory and strength identification
+   - Progress tracking and milestone celebration
+   - Portfolio development and career planning
+
+2. **Professional Development**:
+   - Learning opportunities and skill building
+   - Mentoring relationships (as mentor and mentee)
+   - Goal setting using SMART criteria
+   - Regular performance feedback sessions
+
+## Recovery Phases:
+- **Phase 1 (0-4 weeks)**: Stabilization and symptom management
+- **Phase 2 (1-3 months)**: Skill building and coping strategy development
+- **Phase 3 (3-6 months)**: Integration and lifestyle changes
+- **Phase 4 (6-12 months)**: Maintenance and prevention planning
+
+## Warning Signs Requiring Professional Help:
+- Persistent sleep disturbances for >2 weeks
+- Significant appetite changes or weight loss/gain
+- Substance use increases
+- Thoughts of self-harm or suicide
+- Complete inability to function at work for >3-5 days
+        

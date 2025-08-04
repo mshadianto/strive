@@ -1,0 +1,28 @@
+
+# Cognitive Behavioral Interventions for Workplace Stress
+
+## Cognitive Restructuring Techniques
+
+### Thought Records and Cognitive Distortions
+- Catastrophic thinking: "If I make one mistake, I'll lose my job"
+- All-or-nothing thinking: "I'm either perfect or a complete failure"
+- Mind reading: "My boss thinks I'm incompetent"
+- Fortune telling: "This presentation will be a disaster"
+
+### CBT Techniques for Stress Management:
+1. **The ABC Model**: Antecedent → Belief → Consequence
+2. **Thought challenging**: What's the evidence for/against this thought?
+3. **Behavioral experiments**: Testing out feared scenarios
+4. **Activity scheduling**: Balancing work and pleasant activities
+5. **Problem-solving training**: Define → Generate → Evaluate → Implement
+
+### Workplace-Specific CBT Applications:
+- Deadline anxiety: Breaking tasks into smaller, manageable chunks
+- Perfectionism: Setting "good enough" standards for different tasks
+- Impostor syndrome: Collecting evidence of competence and achievements
+- Conflict avoidance: Assertiveness training and communication skills
+
+## Research Evidence:
+Meta-analyses show CBT for workplace stress has medium to large effect sizes (d = 0.68)
+Particularly effective for anxiety-related workplace issues and burnout prevention.
+        

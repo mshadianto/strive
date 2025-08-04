@@ -1,0 +1,72 @@
+{
+  "description": "DASS-21 Normative Data",
+  "source": "Antony, M. M., Bieling, P. J., Cox, B. J., Enns, M. W., & Swinson, R. P. (1998)",
+  "categories": {
+    "depression": {
+      "normal": {
+        "range": "0-9",
+        "severity": "Normal"
+      },
+      "mild": {
+        "range": "10-13",
+        "severity": "Mild"
+      },
+      "moderate": {
+        "range": "14-20",
+        "severity": "Moderate"
+      },
+      "severe": {
+        "range": "21-27",
+        "severity": "Severe"
+      },
+      "extremely_severe": {
+        "range": "28+",
+        "severity": "Extremely Severe"
+      }
+    },
+    "anxiety": {
+      "normal": {
+        "range": "0-7",
+        "severity": "Normal"
+      },
+      "mild": {
+        "range": "8-9",
+        "severity": "Mild"
+      },
+      "moderate": {
+        "range": "10-14",
+        "severity": "Moderate"
+      },
+      "severe": {
+        "range": "15-19",
+        "severity": "Severe"
+      },
+      "extremely_severe": {
+        "range": "20+",
+        "severity": "Extremely Severe"
+      }
+    },
+    "stress": {
+      "normal": {
+        "range": "0-14",
+        "severity": "Normal"
+      },
+      "mild": {
+        "range": "15-18",
+        "severity": "Mild"
+      },
+      "moderate": {
+        "range": "19-25",
+        "severity": "Moderate"
+      },
+      "severe": {
+        "range": "26-33",
+        "severity": "Severe"
+      },
+      "extremely_severe": {
+        "range": "34+",
+        "severity": "Extremely Severe"
+      }
+    }
+  }
+}

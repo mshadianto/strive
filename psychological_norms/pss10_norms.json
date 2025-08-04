@@ -1,0 +1,52 @@
+{
+  "description": "PSS-10 Normative Data",
+  "source": "Cohen, S., Kamarck, T., & Mermelstein, R. (1983)",
+  "sample_size": 2387,
+  "demographics": {
+    "age_range": "18-65",
+    "gender_distribution": "55% female, 45% male"
+  },
+  "percentiles": {
+    "10": 6,
+    "25": 9,
+    "50": 13,
+    "75": 17,
+    "90": 22
+  },
+  "categories": {
+    "low": {
+      "range": "0-13",
+      "description": "Low perceived stress"
+    },
+    "moderate": {
+      "range": "14-26",
+      "description": "Moderate perceived stress"
+    },
+    "high": {
+      "range": "27-40",
+      "description": "High perceived stress"
+    }
+  },
+  "occupational_norms": {
+    "healthcare": {
+      "mean": 16.2,
+      "sd": 6.8
+    },
+    "education": {
+      "mean": 14.5,
+      "sd": 6.2
+    },
+    "finance": {
+      "mean": 15.8,
+      "sd": 7.1
+    },
+    "technology": {
+      "mean": 13.9,
+      "sd": 6.5
+    },
+    "retail": {
+      "mean": 17.1,
+      "sd": 7.3
+    }
+  }
+}

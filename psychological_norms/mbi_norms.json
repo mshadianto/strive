@@ -1,0 +1,51 @@
+{
+  "description": "Maslach Burnout Inventory Normative Data",
+  "source": "Maslach, C., Jackson, S. E., & Leiter, M. P. (1996)",
+  "dimensions": {
+    "emotional_exhaustion": {
+      "low": {
+        "range": "0-16",
+        "percentile": "Lower third"
+      },
+      "moderate": {
+        "range": "17-26",
+        "percentile": "Middle third"
+      },
+      "high": {
+        "range": "27+",
+        "percentile": "Upper third"
+      }
+    },
+    "depersonalization": {
+      "low": {
+        "range": "0-8",
+        "percentile": "Lower third"
+      },
+      "moderate": {
+        "range": "9-13",
+        "percentile": "Middle third"
+      },
+      "high": {
+        "range": "14+",
+        "percentile": "Upper third"
+      }
+    },
+    "personal_accomplishment": {
+      "high": {
+        "range": "32+",
+        "percentile": "Upper third",
+        "interpretation": "Good"
+      },
+      "moderate": {
+        "range": "25-31",
+        "percentile": "Middle third",
+        "interpretation": "Average"
+      },
+      "low": {
+        "range": "0-24",
+        "percentile": "Lower third",
+        "interpretation": "Concerning"
+      }
+    }
+  }
+}
