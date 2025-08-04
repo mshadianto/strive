@@ -1,11 +1,59 @@
-# Folder virtual environment
-venv/
+# Database files
+*.db
+*.sqlite
+data/databases/*.db
 
-# File rahasia Streamlit
+# Logs
+logs/
+*.log
+
+# Streamlit secrets
 .streamlit/secrets.toml
 
-# Folder cache Python
+# Python
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
 
-# File environment lainnya
+# Virtual environment
+venv/
+env/
+.venv/
 .env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Uploads and temporary files
+uploads/user_imports/*
+uploads/temp/*
+!uploads/user_imports/.gitkeep
+!uploads/temp/.gitkeep
+
+# Reports (keep templates, ignore generated)
+reports/individual/*.pdf
+reports/team/*.pdf
+reports/organization/*.pdf
+
+# Backups
+backup_*/
+*.backup
+
+# Node modules (if any)
+node_modules/

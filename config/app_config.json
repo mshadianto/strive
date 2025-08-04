@@ -1,0 +1,36 @@
+{
+  "app": {
+    "name": "STRIVE Pro",
+    "version": "2.0.0",
+    "environment": "development",
+    "debug": true,
+    "page_title": "STRIVE Pro - Mental Health Assessment Platform",
+    "page_icon": "í· ",
+    "layout": "wide"
+  },
+  "database": {
+    "type": "sqlite",
+    "path": "data/databases/strive_pro.db",
+    "backup_enabled": true,
+    "backup_interval_hours": 24
+  },
+  "security": {
+    "jwt_secret_key": "change-this-in-production",
+    "session_timeout_hours": 24,
+    "password_min_length": 8
+  },
+  "email": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "enabled": false
+  },
+  "analytics": {
+    "wellness_index_weights": {
+      "pss10": 0.25,
+      "dass21": 0.30,
+      "burnout": 0.25,
+      "worklife": 0.10,
+      "jobsat": 0.10
+    }
+  }
+}
