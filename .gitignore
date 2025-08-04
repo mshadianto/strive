@@ -1,0 +1,11 @@
+# Folder virtual environment
+venv/
+
+# File rahasia Streamlit
+.streamlit/secrets.toml
+
+# Folder cache Python
+__pycache__/
+
+# File environment lainnya
+.env

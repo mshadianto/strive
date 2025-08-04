@@ -1,0 +1,21 @@
+# knowledge_base/manajemen_waktu.txt
+
+# Strategi Mengelola Beban Kerja dan Deadline
+
+Teknik-teknik ini dirancang untuk membantu mengurangi perasaan kewalahan akibat tumpukan pekerjaan dan tenggat waktu yang ketat.
+
+## Matriks Eisenhower
+Ini adalah teknik untuk memprioritaskan tugas. Bagi tugas Anda ke dalam empat kuadran:
+1.  **Penting & Mendesak:** Lakukan segera. (Contoh: Krisis, proyek dengan deadline hari ini)
+2.  **Penting & Tidak Mendesak:** Jadwalkan untuk dikerjakan. (Contoh: Perencanaan strategis, pengembangan diri)
+3.  **Tidak Penting & Mendesak:** Delegasikan jika memungkinkan. (Contoh: Beberapa email, interupsi)
+4.  **Tidak Penting & Tidak Mendesak:** Abaikan atau hapus. (Contoh: Aktivitas yang membuang waktu)
+
+## Teknik Pomodoro
+Bekerja dalam interval waktu yang fokus.
+1.  Pilih satu tugas.
+2.  Atur timer selama 25 menit.
+3.  Bekerja tanpa gangguan sampai timer berbunyi.
+4.  Ambil istirahat singkat selama 5 menit.
+5.  Setelah empat "Pomodoro", ambil istirahat lebih lama (15-30 menit).
+Teknik ini membantu menjaga konsentrasi dan mencegah kelelahan.

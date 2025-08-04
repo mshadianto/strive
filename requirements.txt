@@ -1,0 +1,8 @@
+# requirements.txt (Benar)
+streamlit
+langchain
+langchain-openai
+langchain-community
+openrouter
+faiss-cpu
+sentence-transformers
