@@ -37,10 +37,17 @@ OPTIONS = ["Tidak Pernah (0)", "Hampir Tidak Pernah (1)", "Kadang-kadang (2)", "
 
 # --- Tampilan Utama ---
 st.title("🧘 Strive: AI Virtual Engine untuk Kesejahteraan Kerja")
+
+# --- PERUBAHAN DI SINI ---
 st.markdown("""
-Selamat datang di Strive. Aplikasi ini dirancang untuk membantu Anda memahami tingkat stres yang Anda rasakan
-dengan menggunakan kuesioner psikologis standar (**Perceived Stress Scale-10**).
-Jawaban Anda **anonim** dan **tidak disimpan**. Hasilnya bukanlah diagnosis medis, melainkan sebuah refleksi untuk meningkatkan kesadaran diri.
+Aplikasi ini adalah asisten virtual cerdas yang dirancang untuk membantu Anda memahami tingkat stres di tempat kerja dan menemukan strategi penanganan yang efektif.
+
+**Bagaimana Cara Kerjanya?**
+1.  **Asesmen Terarah:** Anda akan menjawab 10 pertanyaan dari kuesioner *Perceived Stress Scale (PSS-10)*, sebuah alat ukur psikologis yang teruji.
+2.  **Analisis AI Cerdas:** Agen AI kami akan menganalisis skor dan konteks yang Anda berikan untuk memahami situasi Anda.
+3.  **Saran Kontekstual:** Berdasarkan analisis tersebut, Strive akan memberikan umpan balik dan saran praktis yang diambil dari basis pengetahuan kami tentang manajemen stres.
+
+Jawaban Anda sepenuhnya **anonim** dan **tidak disimpan**. Aplikasi ini adalah alat bantu refleksi diri dan **bukan pengganti diagnosis medis** dari profesional.
 """)
 st.divider()
 
