@@ -77,7 +77,7 @@ def get_contextual_knowledge(query: str) -> str:
 def initialize_agent():
     """Menginisialisasi dan mengembalikan agent executor."""
     llm = ChatOpenAI(
-        model_name="qwen/qwen3-235b-a22b:free", # <-- PERUBAHAN DI SINI
+        model_name="mistralai/mistral-7b-instruct:free",
         base_url="https://openrouter.ai/api/v1",
         api_key=OPENROUTER_API_KEY,
         temperature=0.7,
@@ -199,3 +199,12 @@ elif st.session_state.assessment_stage == "done":
         for key in list(st.session_state.keys()):
             del st.session_state[key]
         st.rerun()
+
+# --- FOOTER ---
+st.divider()
+st.markdown(
+    """
+    *Developed by:* **MS Hadianto** | RAG & Agentic AI Enthusiast  
+    **Khalisa NF Shasie**
+    """
+)
